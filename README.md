@@ -18,16 +18,16 @@ We want to compare this proteins sequence with a similar protein.
 One way to find a similar protein is to use NCBI BLAST+ and do a "Protein Similarity Search"
 
 
+&nbsp;
 
-
-
+&nbsp;
 Check only the FASTA files you want, in this case only the first one, and under "Entries" click "Download" fasta.
 This will download a FASTA file to the location of your choosing on your workstation or, if the information is not too great, open in the browser.
 <img width="1210" alt="003-ck-one-download-fasta" src="https://user-images.githubusercontent.com/12736699/213064306-4cc7ad70-aef1-499c-81a0-290465af88bc.png">
 
+<br>
 
-
-
+<br>
 All the data from the download can be entered as the "Subject Sequence" then click the "BLAST" button
 <img width="937" alt="004_enter-second-fasta" src="https://user-images.githubusercontent.com/12736699/213064311-06245925-a812-48e4-9d33-6d1ce32b49a0.png">
 
