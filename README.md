@@ -25,6 +25,7 @@ One way to find a similar protein is to use NCBI BLAST+ and do a "Protein Simila
 
 &nbsp;
 
+Here are the results of a NCBI BLAST+ "Protein Similarity Search" 
 Check only the FASTA files you want, in this case only the first one, and under "Entries" click "Download" fasta.
 This will download a FASTA file to the location of your choosing on your workstation or, if the information is not too great, open in the browser.
 <img width="1210" alt="003-ck-one-download-fasta" src="https://user-images.githubusercontent.com/12736699/213064306-4cc7ad70-aef1-499c-81a0-290465af88bc.png">
