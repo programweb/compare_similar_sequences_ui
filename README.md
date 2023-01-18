@@ -17,18 +17,34 @@ We want to compare this proteins sequence with a similar protein.
 
 One way to find a similar protein is to use NCBI BLAST+ and do a "Protein Similarity Search"
 
+
+
+
+
 Check only the FASTA files you want, in this case only the first one, and under "Entries" click "Download" fasta.
 This will download a FASTA file to the location of your choosing on your workstation or, if the information is not too great, open in the browser.
 <img width="1210" alt="003-ck-one-download-fasta" src="https://user-images.githubusercontent.com/12736699/213064306-4cc7ad70-aef1-499c-81a0-290465af88bc.png">
 
+
+
+
 All the data from the download can be entered as the "Subject Sequence" then click the "BLAST" button
 <img width="937" alt="004_enter-second-fasta" src="https://user-images.githubusercontent.com/12736699/213064311-06245925-a812-48e4-9d33-6d1ce32b49a0.png">
+
+
+
 
 Eventually, you will get a results page.  From here click the "Alignments" tab:
 <img width="1332" alt="005_come-to-results-pg" src="https://user-images.githubusercontent.com/12736699/213064313-a994076c-9926-4b59-8fd0-d7def6c61fe4.png">
 
+
+
+
 This is our result after we clicked the "Alignments" tab.   We see that the proteins are indeed similar save for the 26 amino acid gap between the two:
 <img width="1264" alt="006_click-alignments-26gap" src="https://user-images.githubusercontent.com/12736699/213064317-d1bc4573-ce4a-4e19-91bd-d726a43e04a1.png">
+
+
+
 
 There is a "graphics" link that you can take to see the same data displayed graphically:
 <img width="1409" alt="007_examine_graphics" src="https://user-images.githubusercontent.com/12736699/213064320-4ce117dd-8372-4957-8c4a-d3607ce93f43.png">
